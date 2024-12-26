@@ -2,7 +2,7 @@
     "name": "FLUSH",
     "symbol": "FLUSH",
     "description": "FLUSH FLUSH Bird coming on solana Blockchain",
-    "image": "": [
+    "image": "https://raw.githubusercontent.com/KazuX-1/FlushBird/main/asset/flush.png": [
       {
         "trait_type": "Item",
         "value": "Developer Portal"
